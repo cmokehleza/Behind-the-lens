@@ -1,1 +1,4 @@
-![Project Logo](/public/images/thumbnail.webp)
+# Blog Platform-
+Animated .!
+
+![Screenshot](demo.png)
